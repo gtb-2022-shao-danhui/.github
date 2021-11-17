@@ -1,8 +1,8 @@
-![banner](https://github.com/acse-ds120/git-remote-example/blob/main/assets/head.jpg)
+![banner](https://github.com/gtb-2022-shao-danhui/.github/blob/main/profile/assets/head.jpg)
 
 # 👋 Hi there! I'm Danhui.
 
-<img alt="My hobby" src="https://github.com/acse-ds120/git-remote-example/blob/main/assets/photography.jpg" width="450" align="right"/>
+<img alt="My hobby" src="https://github.com/gtb-2022-shao-danhui/.github/blob/main/profile/assets/photography.jpg" width="450" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
